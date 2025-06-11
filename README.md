@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Zakkaria</h1>
-<h3 align="center">Computer Engineering & Data Science enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Zakkaria.</h1>
+<h3 align="center">A Computer Engineering & Data Science enthusiast</h3>
 
 - 🔭 I’m currently working on **my internship**
 
