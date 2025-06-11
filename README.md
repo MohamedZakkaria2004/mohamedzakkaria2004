@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Mohamed Zakkaria, a computer engineering & data science enthusiast. 
-<br><br>🔭 I’m currently working on my internship<br>📄 Know about my experiences :- https://www.linkedin.com/in/mohamedzakkaria/details/experience/<br>👨‍💻 All of my projects are available at :- https://www.linkedin.com/in/mohamedzakkaria/details/projects/<br>👯 I’m looking to collaborate on projects and hackathons<br>🌱 I’m currently learning about semiconductors<br>💬 Ask me about hardware & electronics<br>📫 How to reach me: mohamedzakkaria20@gmail.com 
+<br><br>🔭 I’m currently working on my internship.<br>📄 Know about my experiences :- https://www.linkedin.com/in/mohamedzakkaria/details/experience/<br>👨‍💻 All of my projects are available at :- https://www.linkedin.com/in/mohamedzakkaria/details/projects/<br>👯 I’m looking to collaborate on projects and hackathons.<br>🌱 I’m currently learning about semiconductors<br>💬 Ask me about hardware & electronics.<br>📫 How to reach me: mohamedzakkaria20@gmail.com 
 
 
 ## 🌐 Socials:
