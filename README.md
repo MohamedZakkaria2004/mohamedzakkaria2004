@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my internship**
 
-- 🌱 I’m currently learning **Data Structures, AI, ML, Data Science**
+- 🌱 I’m currently learning **Data Structures, AI, ML, Data Science, Semiconductors**
 
 - 👯 I’m looking to collaborate on **projects & hackathons**
 
