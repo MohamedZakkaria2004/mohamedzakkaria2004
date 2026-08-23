@@ -2,6 +2,11 @@
 Hi 👋, I'm Mohamed Zakkaria, a computer engineering & data science enthusiast. 
 <br><br>🔭 I’m currently working on my internship.<br>📄 Know about my experiences :- https://www.linkedin.com/in/mohamedzakkaria/details/experience/<br>👨‍💻 All of my projects are available at :- https://www.linkedin.com/in/mohamedzakkaria/details/projects/<br>👯 I’m looking to collaborate on projects and hackathons.<br>🌱 I’m currently learning about semiconductors<br>💬 Ask me about hardware & electronics.<br>📫 How to reach me: mohamedzakkaria20@gmail.com 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="MohamedZakkaria2004's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamedzakkaria) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedzakkaria20@gmail.com) 
