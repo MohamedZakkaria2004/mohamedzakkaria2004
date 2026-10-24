@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 Hi 👋, I'm Mohamed Zakkaria, a computer engineer.
-<br><br>🔭 I’ve completed my internships at top organizations.<br>📄 Know about my experiences :- https://www.linkedin.com/in/mohamedzakkaria/details/experience/<br>👨‍💻 All of my projects are available at :- [https://www.linkedin.com/in/mohamedzakkaria/details/projects/](https://github.com/MohamedZakkaria2004?tab=repositories)<br>👯 I’m looking to collaborate on projects and hackathons.
+<br><br>🔭 I’ve completed my internships at top organizations.<br>📄 Know about my experiences :- https://www.linkedin.com/in/mohamedzakkaria/details/experience/<br>👨‍💻 All of my projects are available at :- (https://github.com/MohamedZakkaria2004?tab=repositories)<br>👯 I’m looking to collaborate on projects and hackathons.
 📫 How to reach me: mohamedzakkaria20@gmail.com
 
 ## 🌐 Socials:
